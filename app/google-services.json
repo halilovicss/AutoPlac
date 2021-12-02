@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "716331671906",
+    "firebase_url": "https://autoplac-d3992-default-rtdb.firebaseio.com",
+    "project_id": "autoplac-d3992",
+    "storage_bucket": "autoplac-d3992.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716331671906:android:9ef65159a487c65e250c3b",
+        "android_client_info": {
+          "package_name": "com.example.autoplac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716331671906-h5ushbp2t4veeophbj12mlcu7sanighk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.autoplac",
+            "certificate_hash": "4861b2992d6db9aca50b0bb2d3899e61d5de7765"
+          }
+        },
+        {
+          "client_id": "716331671906-2fe27auvo4us1f2nf1f51qkan7pdmcbv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfljj7LU4TZ-w_UjCRvwg2vo8ZNtN8oNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716331671906-2fe27auvo4us1f2nf1f51qkan7pdmcbv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
